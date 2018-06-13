@@ -1,5 +1,4 @@
-# Jupyter Notebook for "Asteroseismic Radii of Dwarfs: New Accuracy Constraints
-From Gaia DR2 Parallaxes"
+# Jupyter Notebook for "Asteroseismic Radii of Dwarfs: New Accuracy Constraints From Gaia DR2 Parallaxes"
 
 This repository contains a Jupyter Notebook used for the analysis carried out in
 the paper "Asteroseismic Radii of Dwarfs: New Accuracy Constraints From Gaia DR2 Parallaxes"
