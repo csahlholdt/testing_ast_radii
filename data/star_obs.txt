@@ -1,4 +1,4 @@
-# Observational parameters
+# Observational parameters (all of which are in fact derived parameters)
 #
 # Columns (the ones left out contain the uncertainties on the previous parameter):
 # 0 - KIC ID
