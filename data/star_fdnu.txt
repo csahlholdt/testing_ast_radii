@@ -1,8 +1,9 @@
-# Correction factors to dnu from dnufit of own models
+# Correction factors to dnu defined as fdnu=dnufit/dnuscal, where dnufit
+# is calucated based on model frequencies
 #
 # Columns:
 # 0 - KIC ID
-# 1 - dnu correction factor
+# 1 - dnu correction factor, fdnu
 # 2 - dnu correction factor after correcting dnufit for the surface effect
 ########################
 1435467     1.000   0.992
